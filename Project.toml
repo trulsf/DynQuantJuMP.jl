@@ -1,0 +1,10 @@
+name = "DynQuantJuMP"
+uuid = "432193f6-0ed7-476f-9a3e-ce3ea7ce17cb"
+authors = ["Truls Flatberg <Truls.Flatberg@sintef.no>"]
+version = "0.1.0"
+
+[deps]
+DynamicQuantities = "06fc5a27-2a28-4c7c-a15d-362465fb6821"
+HiGHS = "87dc4568-4c63-4d18-b0c0-bb2238e4078b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
